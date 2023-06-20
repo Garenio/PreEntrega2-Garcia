@@ -29,7 +29,24 @@ a:hover {
     color: rgb(180, 180, 180);
 }
 
+.subTitulo {
+    font-family: 'Satisfy', cursive;
+    font-size: 2rem;
+}
+
 .profileImg {
     width: 75%;
     box-shadow: -5px 0px 2px #313131;
+}
+
+.jobImg1 {
+    width: 200px;
+}
+
+.jobImg2 {
+    width: 130px;
+}
+
+.jobImg3{
+    width: 110px;
 }
