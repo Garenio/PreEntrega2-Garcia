@@ -50,3 +50,9 @@ a:hover {
 .jobImg3{
     width: 110px;
 }
+
+.card-header {
+    font-family: 'Satisfy', cursive;
+    font-size: 1.5rem;
+    font-weight: bold;
+}
