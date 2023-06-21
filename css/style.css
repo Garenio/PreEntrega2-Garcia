@@ -21,32 +21,28 @@ h4 {
 }
 
 a {
-    color: aliceblue;
+    color: #e9e2da;
     text-decoration: none;
 }
 
 a:hover {
-    color: rgb(180, 180, 180);
-}
-
-p {
-    font-family: 'Roboto', sans-serif;
-    font-weight: 300;
+    color: #fb8351;
 }
 
 .subTitulo {
     font-family: 'Satisfy', cursive;
     font-size: 2rem;
+    color:#333237;
 }
 
 .profileImg {
     width: 75%;
-    box-shadow: -5px 0px 2px #313131;
+    box-shadow: 0px 5px 2px #ffac64;
 }
 
 .profileImg2 {
     width: 35%;
-    box-shadow: -5px 0px 2px #313131;
+    box-shadow: 0px 5px 2px #ffac64;
 }
 
 .jobImg1 {
@@ -65,4 +61,75 @@ p {
     font-family: 'Satisfy', cursive;
     font-size: 1.5rem;
     font-weight: bold;
+}
+
+.textDarkGrey { 
+    color: #333237;
+}
+
+.textOrange {
+    color: #fb8351;
+}
+
+.textLightOrange {
+    color:#ffad64;
+}
+
+.textLightGrey {
+    color: #e9e2da;
+}
+
+.textLightBlue {
+    color: #add4d3;
+}
+
+.bgDarkGrey { 
+    background-color: #333237;
+}
+
+.bgOrange {
+    background-color: #fb8351;
+}
+
+.bgLightOrange {
+    background-color:#ffad64;
+}
+
+.bgLightGrey {
+    background-color: #e9e2da;
+}
+
+.bgLightBlue {
+    background-color: #add4d3;
+}
+
+.btnHeader {
+    background-color:#ffad64;
+}
+
+.btnHeader:hover {
+    background-color: #add4d3;
+}
+
+.btnGeneral {
+    background-color:#ffad64;
+    color:#333237;
+    font-weight: bold;
+}
+
+.btnGeneral:hover {
+    background-color: #333237;
+    color: white;
+}
+
+.cardBorder1 {
+    border-left: .50rem solid #313131;
+}
+
+.card-body td {
+    background-color: #e9e2da;
+}
+
+.boxShadow {
+    box-shadow: 4px 4px 10px #333237;
 }
